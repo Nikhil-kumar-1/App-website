@@ -86,7 +86,7 @@ const Home = () => {
               <svg className="w-8 h-8 mr-2" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M3 3h18v18H3V3zm4.5 5.5v9h9v-9h-9z" />
               </svg>
-              AppCraft
+              VNM_APP
             </motion.div>
             
             <div className="hidden md:flex space-x-8">
